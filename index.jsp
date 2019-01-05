@@ -13,7 +13,7 @@
   <p>Our Services </p>
   <p>Our Clients</p>
   <p>Case Studies</p>
-  <p>Contact Uys</p>
+  <p>Contact uUys</p>
 
 </body>
 
