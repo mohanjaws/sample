@@ -4,7 +4,7 @@
   <title>MJ Consulting</title>
     <style type="text/css">
       body {
-        background: green;
+        background: red;
         color: white;
       }
       div.container {
