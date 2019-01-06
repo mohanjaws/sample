@@ -4,7 +4,7 @@
   <title>MJ Consulting</title>
     <style type="text/css">
       body {
-        background: green;
+        background: red;
         color: white;
       }
       div.container {
@@ -27,7 +27,7 @@
 
   <p>About Us</p>
   <p>Our Services </p>
-  <p>dfiOur Clients</p>
+  <p>Our Clients</p>
   <p>Case Studies</p>
   <p>Contact Us</p>
 
