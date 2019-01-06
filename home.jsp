@@ -27,7 +27,7 @@
 
   <p>About Us</p>
   <p>Our Services </p>
-  <p>iOur Clients</p>
+  <p>dfiOur Clients</p>
   <p>Case Studies</p>
   <p>Contact Us</p>
 
