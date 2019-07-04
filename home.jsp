@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>MJ Consulting</title>
+  <title>MK Consulting</title>
     <style type="text/css">
       body {
         background: black;
