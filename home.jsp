@@ -22,10 +22,10 @@
 
 <body>
 
-  <h1><center>Welcome to MK Consulting</center></h1>
+  <h1><center>Welcome to MJ Consulting</center></h1>
   <h2><center>MJ Consulting focused on IT Consulting and Project Management</center></h2>
 
-  <p>About Uss</p>
+  <p>About Us</p>
   <p>Our Services </p>
   <p>Our Clients</p>
   <p>Case Studiess</p>
