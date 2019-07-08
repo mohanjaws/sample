@@ -26,7 +26,7 @@
   <h2><center>MJ Consulting focused on IT Consulting and Project Management</center></h2>
 
   <p>About Us</p>
-  <p>Our Services Including </p>
+  <p>Our Services </p>
   <p>Our Clients</p>
   <p>Case Studiess</p>
   <p>Contact Us</p>
