@@ -28,7 +28,7 @@
   <p>About Us</p>
   <p>Our Services </p>
   <p>Our Clients</p>
-  <p>Case Studiess</p>
+  <p>Case Studieeress</p>
   <p>Contact Us</p>
 
 </body>
